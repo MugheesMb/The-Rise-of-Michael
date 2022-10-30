@@ -8,10 +8,11 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/MugheesMb/aqua-VS-Alien.git
+$ git clone https://github.com/MugheesMb/The-Rise-of-Michael
+.git
 
 # Go into the repository
-$ cd dyslexic_app
+$ cd 
 
 # Open project in VS code
 $ code .
