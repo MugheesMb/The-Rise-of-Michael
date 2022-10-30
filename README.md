@@ -8,8 +8,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/MugheesMb/The-Rise-of-Michael
-.git
+$ git clone https://github.com/MugheesMb/The-Rise-of-Michael.git
 
 # Go into the repository
 $ cd 
