@@ -11,7 +11,7 @@
 $ git clone https://github.com/MugheesMb/The-Rise-of-Michael.git
 
 # Go into the repository
-$ cd 
+$ cd The-Rise-of-Michael
 
 # Open project in VS code
 $ code .
@@ -26,7 +26,7 @@ $ flutter run
 
 
 ## 💡 Inspiration
-Ah, the 80s. We constantly look back on the era, its charming tackiness, its pointless, embarrassing, adorable fads, and its foolish sense of materialism. Spearheading this movement was the King of Pop, Michael Jackson. His reputation faltered over the years, but no one can deny that he was one of the greatest entertainers to ever walk this earth. By the late 80s, Jackson had been integrated into entertainment. One of his most significant projects was Moonwalker, a 90-minute movie that was essentially several music videos connected through a very loose plot.
+Ah, the 80s. We constantly look back on the era, its charming tackiness, its pointless, embarrassing, adorable fads, and its foolish sense of materialism. Spearheading this movement was the King of Pop, Michael Jackson. His reputation faltered over the years, but no one can deny that he was one of the greatest entertainers to ever walk this earth. By the late 80s, Jackson had been integrated into entertainment. He's also known as the king of the pop music. He is one of the main reasons why pop music is so famous these days. He was also a very generous guy who donated to hundreds of millions to charities. He was our inspiration for this project as we wanted to celebrate his legacy and contribution to the music world by making this game.
 
 ## ⚙️ What it does
 It's a Michael Jackson game based on the 80s style we are trying to connect the 80s project with 20's Style Theme. We used the ray-casting method to implement the game. We used self-designed assets for the game. When you start the game you see the Landing page where you can play the game and dance with Michael other than that you can also read more about the history of Michael from the beginning. If you connect to the server and that will help you put your score on the screen.
