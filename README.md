@@ -1,4 +1,4 @@
-##💡 Inspiration
+## 💡 Inspiration
 Ah, the 80s. We constantly look back on the era, its charming tackiness, its pointless, embarrassing, adorable fads, and its foolish sense of materialism. Spearheading this movement was the King of Pop, Michael Jackson. His reputation faltered over the years, but no one can deny that he was one of the greatest entertainers to ever walk this earth. By the late 80s, Jackson had been integrated into entertainment. One of his most significant projects was Moonwalker, a 90-minute movie that was essentially several music videos connected through a very loose plot.
 
 ## ⚙️ What it does
