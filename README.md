@@ -2,7 +2,7 @@
 
 
 ## How to run "The Rise of Michael" .
-- The app is completely built on `flutter` framework of `dart` and that's why we need `flutter sdk` and much more do your flutter setup by going to the folloewing link
+- The app is completely built on `flutter` framework of `dart` and that's why we need `flutter sdk` and much more do your flutter setup by going to the following link
 - https://docs.flutter.dev/get-started/install/windows
 -  , after the successful of setup installation, clone the repository into your local system using below command:
 
