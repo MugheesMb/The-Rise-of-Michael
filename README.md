@@ -1,3 +1,30 @@
+![video](https://user-images.githubusercontent.com/81790585/198872229-f47d2215-a094-457a-b4a3-d8cf330923db.gif)
+
+
+## How to run "The Rise of Michael" .
+- The app is completely built on `flutter` framework of `dart` and that's why we need `flutter sdk` and much more do your flutter setup by going to the folloewing link
+- https://docs.flutter.dev/get-started/install/windows
+-  , after the successful of setup installation, clone the repository into your local system using below command:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/MugheesMb/aqua-VS-Alien.git
+
+# Go into the repository
+$ cd dyslexic_app
+
+# Open project in VS code
+$ code .
+
+# Install dependencies by going to pubspec.yaml
+$ flutter pub get
+
+# Run the project
+$ flutter run
+
+```
+
+
 ## 💡 Inspiration
 Ah, the 80s. We constantly look back on the era, its charming tackiness, its pointless, embarrassing, adorable fads, and its foolish sense of materialism. Spearheading this movement was the King of Pop, Michael Jackson. His reputation faltered over the years, but no one can deny that he was one of the greatest entertainers to ever walk this earth. By the late 80s, Jackson had been integrated into entertainment. One of his most significant projects was Moonwalker, a 90-minute movie that was essentially several music videos connected through a very loose plot.
 
